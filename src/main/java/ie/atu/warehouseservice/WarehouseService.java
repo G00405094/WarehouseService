@@ -11,4 +11,6 @@ public class WarehouseService {
     private String warehouseId;
     private String location;
     private String capacity;
+    private String addProduct;
+    private String getProductId;
 }
